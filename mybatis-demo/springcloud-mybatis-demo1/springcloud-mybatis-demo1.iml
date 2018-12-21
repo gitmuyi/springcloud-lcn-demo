@@ -61,7 +61,8 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.43" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.11" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.protobuf:protobuf-java:2.6.0" level="project" />
     <orderEntry type="library" name="Maven: com.codingapi:transaction-springcloud:4.1.0" level="project" />
     <orderEntry type="library" name="Maven: com.codingapi:tx-client:4.1.0" level="project" />
     <orderEntry type="library" name="Maven: com.github.1991wangliang:lorne_core:1.0.0" level="project" />

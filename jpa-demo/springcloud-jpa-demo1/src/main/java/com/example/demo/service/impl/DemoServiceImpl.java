@@ -42,7 +42,7 @@ public class DemoServiceImpl implements DemoService {
 
         int rs1 = testRepository.save(test).getId();
 
-        int v = 100/0;
+        //int v = 100/0;
 
         return rs1+rs2;
     }

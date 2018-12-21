@@ -22,9 +22,7 @@ public class DemoServiceImpl implements DemoService {
     @Override
     @TxTransaction
     public int save() {
-
         demo3Client.save();
-
         return 0;
     }
 }
