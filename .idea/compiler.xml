@@ -23,19 +23,19 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
-      <module name="springcloud-jdbc-demo1" target="1.7" />
-      <module name="springcloud-jdbc-demo2" target="1.7" />
-      <module name="springcloud-jdbc-demo3" target="1.7" />
-      <module name="springcloud-jdbc-demo4" target="1.7" />
-      <module name="springcloud-jdbc-demo5" target="1.7" />
-      <module name="springcloud-jpa-demo1" target="1.7" />
-      <module name="springcloud-jpa-demo2" target="1.7" />
-      <module name="springcloud-jpa-demo3" target="1.7" />
-      <module name="springcloud-lcn-demo" target="1.7" />
-      <module name="springcloud-mybatis-demo1" target="1.7" />
-      <module name="springcloud-mybatis-demo2" target="1.7" />
-      <module name="springcloud-shardingjdbc-mybatis-demo1" target="1.7" />
-      <module name="springcloud-shardingjdbc-mybatis-demo2" target="1.7" />
+      <module name="springcloud-jdbc-demo1" target="1.8" />
+      <module name="springcloud-jdbc-demo2" target="1.8" />
+      <module name="springcloud-jdbc-demo3" target="1.8" />
+      <module name="springcloud-jdbc-demo4" target="1.8" />
+      <module name="springcloud-jdbc-demo5" target="1.8" />
+      <module name="springcloud-jpa-demo1" target="1.8" />
+      <module name="springcloud-jpa-demo2" target="1.8" />
+      <module name="springcloud-jpa-demo3" target="1.8" />
+      <module name="springcloud-lcn-demo" target="1.8" />
+      <module name="springcloud-mybatis-demo1" target="1.8" />
+      <module name="springcloud-mybatis-demo2" target="1.8" />
+      <module name="springcloud-shardingjdbc-mybatis-demo1" target="1.8" />
+      <module name="springcloud-shardingjdbc-mybatis-demo2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

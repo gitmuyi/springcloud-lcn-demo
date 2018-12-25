@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.codingapi:transaction-springcloud:4.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codingapi/transaction-springcloud/4.2.0-SNAPSHOT/transaction-springcloud-4.2.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codingapi/transaction-springcloud/4.2.0-SNAPSHOT/transaction-springcloud-4.2.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codingapi/transaction-springcloud/4.2.0-SNAPSHOT/transaction-springcloud-4.2.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
